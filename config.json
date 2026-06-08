@@ -60,6 +60,20 @@
       ]
     },
     {
+      "id": "python-persistence",
+      "title": "Python Data Persistence",
+      "description": "Use SQLite to store and manage data in Python so programs keep information across runs.",
+      "path": "assignments/python-persistence",
+      "dueDate": "2026-07-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "fastapi-rest-apis",
       "title": "Building REST APIs with FastAPI",
       "description": "Create a REST API using FastAPI with request validation, JSON responses, and automatic documentation.",
